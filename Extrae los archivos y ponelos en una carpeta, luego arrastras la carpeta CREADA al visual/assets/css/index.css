@@ -1,0 +1,271 @@
+
+.h1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+}
+
+.h5-2{
+    color: white;
+    font-weight: bold;
+}
+.p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    color: #7D7987;
+}
+
+.btn-primary{
+    position: static;
+    width: 200px;
+    height: 60px;
+    left: 0px;
+    top: 278px;
+    background: #458FF6;
+    border-radius: 55px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+
+}
+
+
+.cont-1{
+    width: 435px;
+    height: 338px;
+    margin: 106px 109px 0 144px;
+}
+
+.cont-2{
+    display: flex;
+}
+
+.header{
+    height: 100px;
+}
+
+.cont-margin{
+    margin-top: 84px;
+}
+
+.logo-div{
+    margin: 58px 0 0 144px;
+    display: flex;
+    width: 160px;
+    height: 41px;
+
+}
+
+.logo{
+    width: 41px;
+    height: 41px;
+    border-radius: 50%;
+    background-color:  #458FF6;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: #FFFFFF;
+    align-content: center;
+    text-align: center;
+
+}
+
+.logo-texto{
+    margin: 6px 0 0 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #233348;
+}
+
+h2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+    margin-bottom: 0px;
+}
+
+h5 .card-title{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.navbar{
+    margin: 72px 78px 0 0;
+    height: 27px;
+}
+
+.service{
+    text-align: center;
+}
+
+.divider{
+    margin: 0 auto;
+    width: 52px;
+    height: 2px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.divider2{
+    margin-top: 10px;
+    width: 50px;
+    height: 2px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.parrafo-centro{
+    margin: 33px auto;
+    width: 60%;
+    text-align: center;
+    height: 60px;
+    max-width: 952px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+
+}
+
+.parrafo1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.cards-div{
+    width: 80vw;
+    margin: 80px auto 0;
+}
+.card{
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    padding: 54px 0 0 37px;
+    min-width: 350px;
+    min-height: 354px;
+    max-width: 350px;
+    max-height: 354px;
+    margin-bottom: 37px;
+
+}
+
+.card-img-top{
+    width: 92px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+
+.card-img2{
+    width: 62px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+.card-img3{
+    width: 67px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+.card-img4{
+    width: 60px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+.card-img5{
+    width: 80px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+.card-img6{
+    width: 70px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+}
+
+.btn-outline-primary{
+    padding: 0 0 20px 0;
+    margin: auto;
+    align-content: center;
+    width: 200px;
+    height: 56px;
+    border: 1.4px solid #458FF6;
+    box-sizing: border-box;
+    border-radius: 55px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 60px;
+    color: #5A98F2;
+}
+
+.footer{
+    background-color: cornflowerblue;
+}
+
+.logo2-div{
+    margin: 58px 0 0 14px;
+    display: flex;
+    width: 160px;
+    height: 41px;
+}
+.logo2{
+    
+    width: 41px;
+    height: 41px;
+    border-radius: 50%;
+    background-color: #FFFFFF;;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: #5B9BF3;
+    text-align: center;
+}
+
+.logo-texto2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.fuente-footer{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-align: left;
+}
+
